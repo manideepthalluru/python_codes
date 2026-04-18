@@ -1,0 +1,7 @@
+a = 5
+print(type(a)) - returns data type of 'a'
+
+b = "   Manideep Thalluru   "
+print(b.strip())	- remove the white spaces on either side
+print(b.lstrip())	- remove the white spaces on left side
+print(b.rstrip())	- remove the white spaces on right side

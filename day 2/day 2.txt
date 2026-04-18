@@ -1,0 +1,10 @@
+
+class First:
+    a = 78
+
+    def method1(self):      
+        print("Method1")
+
+#self must be included when defining the function in the class
+
+# inheritance concept will be used in memory and chatbots where the response will influence by the previous responses
