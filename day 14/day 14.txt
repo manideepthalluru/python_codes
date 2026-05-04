@@ -1,0 +1,4 @@
+AI in Excel Sheet session
+
+https://chartgen.ai/ 		- creates charts using the datasets provided
+https://www.formulabot.com/ 	- AI data cleaning and analysis tool
