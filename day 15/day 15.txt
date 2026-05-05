@@ -1,0 +1,2 @@
+https://appinventor.mit.edu/	- mobile app building tool without coding
+https://www.softr.io/		- app building AI tool
